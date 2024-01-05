@@ -1,2 +1,2 @@
 # markdown-data1.md
-[back](readme.md)
+[back](../readme.md)
